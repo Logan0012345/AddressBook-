@@ -1,4 +1,4 @@
-# AddressBook-
+# AddressBook
 => Create Contact is used to add a new contact with name, phone number, and email.
 => Validation is done for every name,phone number and email.
 => List Contactsis used to display all saved contacts, sorting is used by name, phone and email.
